@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 I am a Computer Engineering Student at McGill University.
-- I’m currently enhancing my skills for building web applications.
+- Currently enhancing my skills for building web applications.
 
 - Exploring different programming languages.
 
