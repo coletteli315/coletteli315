@@ -17,3 +17,8 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200" height="150"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+I am a Software Developer from Montreal.
+
