@@ -14,5 +14,11 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Software Developer from Montreal.
+I am a Software Developer based in Montreal.
+
+- Education: I am currently a Computer Engineering student at McGill University.
+
+- Experience: In the past, I worked as a Software Developer Intern at Armonía. 
+
+- Personal Projects: Right now, I am developing an astrology web application (Cosma Path) using React and Typescript.
 
