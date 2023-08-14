@@ -20,7 +20,7 @@ I am a Software Developer based in Montreal.
 
 - Experience: In the past, I worked as a Software Developer Intern at Armonía. 
 
-- Personal Projects: Currently, I am developing an astrology web application (Cosma Path) using React and TypeScript.
+- Personal Projects: Currently, I am developing an astrology web application https://coletteli315.github.io/Cosma-Path/ using React and TypeScript. 
 
 ---
 
